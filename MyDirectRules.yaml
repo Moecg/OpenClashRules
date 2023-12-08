@@ -1,0 +1,16 @@
+payload:
+# 个人自定义直连规则
+
+
+## AGE
+  - DOMAIN-SUFFIX,age.tv
+  - DOMAIN-SUFFIX,agedm.org
+  - DOMAIN-SUFFIX,agefans.com
+
+## Anime1
+  - DOMAIN-SUFFIX,anime1.me
+  - DOMAIN-SUFFIX,anicdn.com
+
+## 鹰角网络
+  - DOMAIN-SUFFIX,hypergryph.com
+

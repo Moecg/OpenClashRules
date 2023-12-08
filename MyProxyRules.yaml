@@ -1,0 +1,24 @@
+payload:
+# 个人自定义代理规则
+
+
+## Translate 翻译
+  - DOMAIN,dictionary.cambridge.org
+  - DOMAIN,translate.google.cn
+  - DOMAIN,translate.google.com
+  - DOMAIN-SUFFIX,collinsdictionary.com
+  - DOMAIN-SUFFIX,urbandictionary.com
+  - DOMAIN-SUFFIX,vocabulary.com
+
+## 人类验证
+  - DOMAIN-SUFFIX,hcaptcha.com
+
+## bangumi 番组计划
+  - DOMAIN-SUFFIX,bgm.tv
+  - DOMAIN-SUFFIX,bangumi.tv
+
+## iwara 🔞
+  - DOMAIN-SUFFIX,iwara.tv
+
+## 灵梦御所 🔞
+  - DOMAIN-SUFFIX,reimu.net

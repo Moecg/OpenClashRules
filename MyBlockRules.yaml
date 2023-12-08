@@ -1,0 +1,9 @@
+payload:
+# 个人自定义阻止连接规则
+
+
+## MIUI System Update check
+  - DOMAIN,update.miui.com
+
+## Bilibili 直播udp连接爆炸
+  - DOMAIN,stun.chat.bilibili.com
